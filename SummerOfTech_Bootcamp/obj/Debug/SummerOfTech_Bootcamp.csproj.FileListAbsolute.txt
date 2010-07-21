@@ -1,0 +1,5 @@
+c:\users\summerofcode\documents\visual studio 2010\Projects\SummerOfTech_Bootcamp\SummerOfTech_Bootcamp\bin\SummerOfTech_Bootcamp.dll
+c:\users\summerofcode\documents\visual studio 2010\Projects\SummerOfTech_Bootcamp\SummerOfTech_Bootcamp\bin\SummerOfTech_Bootcamp.pdb
+c:\users\summerofcode\documents\visual studio 2010\Projects\SummerOfTech_Bootcamp\SummerOfTech_Bootcamp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\summerofcode\documents\visual studio 2010\Projects\SummerOfTech_Bootcamp\SummerOfTech_Bootcamp\obj\Debug\SummerOfTech_Bootcamp.dll
+c:\users\summerofcode\documents\visual studio 2010\Projects\SummerOfTech_Bootcamp\SummerOfTech_Bootcamp\obj\Debug\SummerOfTech_Bootcamp.pdb
